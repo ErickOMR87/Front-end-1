@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokedex</title>
+    <link rel="stylesheet" href="./Style.css">
+    
+</head>
+<body>
+   <center> <div>
+   <img class="imgfondo" src="./img/pokedex.png" alt="pokedex">
+    <img id="imagen" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" alt="Pikachu" width="150px" class="centrar" >
+
+    <button class="centrar6" onclick="fetchPokemon()">Buscar</button>
+
+    <p class="centrar3">Nombre: </p>
+    <input type="Nombre" class="centrar2" placeholder="Pikachu" id="name" value = "pikachu">
+
+    <p class="centrar5">Tipo:</p>
+    <input type="Tipo" class="centrar4" id = "tipo"> 
+
+    <p class="centrar8">Habilidades:</p>
+    <input type="Habilidades" class="centrar7" id="habilidad">
+
+    <p class="centrar10">Ataque:</p>
+    <input type="Ataque" id="ataque" class="centrar9">
+
+    <p class="centrar12">Defensa:</p>
+    <input id="defensa" type="Defensa" class="centrar11">
+
+   
+</div></center>
+
+</body>
+<footer>
+    <script src="./Poke.js"></script>
+</footer>
+</html>

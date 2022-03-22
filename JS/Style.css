@@ -1,0 +1,86 @@
+.imgfondo{
+    z-index: 1;
+    position: absolute;
+    top: 0px;
+    left: 420px;
+    border-style:solid;
+    border-color: rgb(10, 10, 10);
+    border-width: 10px;
+}
+.centrar{
+    position: absolute;
+    top: 150px;
+    left: 940px;
+    z-index: 2;
+
+}
+.centrar2{
+    position: absolute;
+    top: 290px;
+    left: 910px;
+    z-index: 2;
+}
+.centrar3{
+    position: absolute;
+    top: 275px;
+    left: 840px;
+    z-index: 2;
+}
+.centrar4{
+    position: absolute;
+    top: 340px;
+    left: 910px;
+    z-index: 2;
+} 
+
+.centrar5 {
+    position: absolute;
+    top: 325px;
+    left: 840px;
+    z-index: 2;
+}
+.centrar6 {
+    position: absolute;
+    top: 380px;
+    left: 970px;
+    z-index: 3;
+}
+
+.centrar7 {
+    position: absolute;
+    top: 720px;
+    left: 820px;
+    z-index: 2;
+}
+.centrar8 {
+    position: absolute;
+    top: 680px;
+    left: 820px;
+    z-index: 3;
+}
+
+.centrar9 {
+    position: absolute;
+    top: 770px;
+    left: 820px;
+    z-index: 2;
+}
+.centrar10 {
+    position: absolute;
+    top: 730px;
+    left: 820px;
+    z-index: 3;
+}
+
+.centrar11 {
+    position: absolute;
+    top: 820px;
+    left: 820px;
+    z-index: 2;
+}
+.centrar12 {
+    position: absolute;
+    top: 780px;
+    left: 820px;
+    z-index: 3;
+}
